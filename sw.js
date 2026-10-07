@@ -1,5 +1,5 @@
 /* 어휘 트레이너 — 오프라인 서비스워커 */
-const CACHE = 'voca-v4';
+const CACHE = 'voca-v5';
 const ASSETS = [
   './',
   'index.html',
